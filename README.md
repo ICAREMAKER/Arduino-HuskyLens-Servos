@@ -19,15 +19,19 @@
 #### COMMAND_RETURN_ARROW It is an arrow
 
 ### Pour un bloc:
-#### xCenter 	Centre en X du bloc
-#### yCenter 	Centre en Y du bloc
-#### width 		largeur du bloc
-#### height 		Hauteur du bloc
-#### ID 			ID du bloc
+| Code | definition |
+| :----: | :---- |
+|.xCenter | Centre en X du bloc | 
+|.yCenter | Centre en Y du bloc |
+|.width | largeur du bloc | 
+|.height | Hauteur du bloc | 
+|.ID | ID du bloc | 			
 
 ### Pour une fleche:
-#### xOrigin  	Origine de la fleche en X
-#### yOrigin 	Origine de la fleche en Y
-#### xTarget 	Cible de la fleche en X
-#### yTarget 	Cible de la fleche en Y
-#### ID 			ID de la fleche
+| Code | definition |
+| :----: | :---- |
+|.xOrigin | Origine de la fleche en X | 
+|.yOrigin | Origine de la fleche en Y |
+|.xTarget | Cible de la fleche en X | 
+|.yTarget | Cible de la fleche en Y | 
+|.ID | ID de la fleche | 			
