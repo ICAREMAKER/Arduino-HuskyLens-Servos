@@ -1,4 +1,5 @@
 # Arduino-HuskyLens-Servos
+https://arduiblog.com/2021/05/24/huskylens/
 ![Circuit-connections-diagram-for-the-Huskylens-facial-recognition-camera](https://github.com/user-attachments/assets/224f2c17-c1cd-4148-a48e-4c6ed9dbcf5c)
 
 # Coder avec Huskylense
