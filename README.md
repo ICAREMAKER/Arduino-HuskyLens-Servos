@@ -10,8 +10,10 @@
 #### ALGORITHM_COLOR_RECOGNITION: reconnaissance des couleurs
 #### ALGORITHM_TAG_RECOGNITION : reconnaissance de symboles
 #### ALGORITHM_OBJECT_CLASSIFICATION : Classification d'objets
-
-
+exemple
+C
+huskylens.writeAlgorithm(ALGORITHM_OBJECT_TRACKING);
+'C
 ## Description: Structure to store the blocks or arrows
 
 ### Command Use to determine whether this is arrow or block
